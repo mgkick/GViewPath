@@ -1,0 +1,9 @@
+cd spark
+git clone https://github.com/mgkick/spark.git
+
+
+├── data/
+│ │ └── mockRoutes.js # 미리 정의된 경로 데이터
+
+├── public/
+│ ├── favicon.ico
